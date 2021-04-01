@@ -1,3 +1,13 @@
+Introduction¶
+
+According to World Health Organisation (WHO), stroke are the second leading cause of death and the third leading cause of disability globally. Stroke is the sudden death of some brain cells due to lack of oxygen when the blood flow to the brain is lost by blockage or rupture of an artery to the brain, it is also a leading cause of dementia and depression.
+
+Nearly 800,000 people in the United States suffer from a stroke each year, with about three in four being first-time strokes. 80% of the time these strokes can be prevented, so putting in place proper education on the signs of stroke is very important. In this study, various models are build to predict if a person is subjected to stroke using available predictors
+
+Overall Concept
+
+The objective of this study is to construct a prediction model for predicting stroke and to assess the accuracy of the model.  We will explore seven different models to see which produces reliable and repeatable results. The models are: Decision Tree, Logistic Regression, Random Forest, Support Vector Machine, K Nearest Neighbour, Naive Bayes and KMeans Clustering. From the prediction outcome of the models, the best performance model will undergo the cross validation process to evaluate its repeatability. 
+
 Data Source
 
 A population of 5110 people are involved in this study with 2995 females and 2115 males.
